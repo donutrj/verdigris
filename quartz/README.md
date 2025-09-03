@@ -1,3 +1,28 @@
+# Project notes — how to update and deploy
+
+Use these from PowerShell at the repo root.
+
+Update content and deploy (branch `v4` powers GitHub Pages):
+
+```powershell
+cd D:\tabletop\creative\Verdigris\Verdigris_Quartz
+git status
+git add quartz/content -A
+git commit -m "Update site content"
+git push origin master
+git push -f origin HEAD:v4
+```
+
+Preview locally (optional):
+
+```powershell
+cd D:\tabletop\creative\Verdigris\Verdigris_Quartz
+npm ci
+npx quartz build --serve
+```
+
+---
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
