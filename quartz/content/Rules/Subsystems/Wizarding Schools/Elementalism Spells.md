@@ -61,6 +61,14 @@ It was once that kings might have their messengers teleport. Such lavishness has
 The wizard must hold a piece of a location they remember visiting. When intoning the spell, they may link hands with up to SL creatures and bring them to the place where the item was from.
 
 Early versions of this spell were said to cause accidental time travel.
+# To Induce the Writhing of Metal
+Target: 3-5
+
+The wizard rests their hand on worked metal, inducing a writhing as the metal twists and distorts itself. The process is loud, the metal is left bent out of shape to the desire of the caster.
+
+If cast against armor or weapons, reduce their quality by SL, halved.
+
+If cast at 5+ SL, the wizard may instead target worked metal within line of sight. 
 ## Wall of Fire
 Target: 4–5
 

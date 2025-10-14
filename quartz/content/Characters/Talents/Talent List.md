@@ -618,7 +618,7 @@ Max: 1
 
 Wizards together, strong.
 
-Allows you to aid and be aided by other wizards with this talent. You can join another caster, making channel tests that contribute to their spell as long as you are within arm’s reach of each other. The original wizard must still make the casting test and suffer the consequences of mishaps and catastrophes. 
+Allows you to aid other wizards with this talent. You can join another caster, making channel tests that contribute to their spell as long as you are within arm’s reach of each other. The original wizard must still make the casting test and suffer the consequences of mishaps and catastrophes. 
 
 This can be used maliciously.
 ## Horseback Arcana

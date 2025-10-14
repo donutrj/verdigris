@@ -76,3 +76,12 @@ Each shard “stores” a specific loud sound made during the casting—shouting
 Throwing or breaking a shard releases the captured sound. It can be used to cause distractions, mimic presence, or cover movement.
 
 Up to SL shards may be created. They last 24 hours or until used.
+# The Gout
+Target: 1-2
+
+The wizard points their finger at a target within line of sight, they must pass a Warding Save or suffer the following effects:
++ The target immediately takes 1d3 damage
++ The target suffers -2 to all tests
++ The target cannot run at full speed
+
+These affects wear off after one hour. Multiple instances of The Gout do not stack.

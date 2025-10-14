@@ -63,3 +63,29 @@ Cast on a cup or pot of tea.
 When drunk, the drinker takes SL/2 Exhaustion, setting in after an hour. If cast at 6+ SL, the drinker makes a Warding Save. If failed, they immediately fall unconscious and gain Exhausted(1).
 
 To be affected, one must drink at least half a cup.
+
+## The Phantom Javelin
+Target: 3
+
+
+## To Split Forth the Pit Beneath
+Target: 6-10
+
+The caster points to a spot of earth on the ground, tearing open a small breach to another plane. Hungering monsters spill forth, catching fire as they are reprimanded by the sun.
+
+Those near the breach must make warding saves or gain Ablaze(1), Bleeding(3) & Deafened(1) as they are swarmed by the dying monstrosities.
+
+The sun closes the breach within a minute of casting.
+
+**Do not cast where the sun does not shine.**
+## The Unhallowed Mist
+Target: 3-10
+
+A sickly purple vapor pools from the caster's mouth, filling the room.
+
+For as long as the caster breathes, or until the spell ends, ensouled creatures make all tests and saves with a -2 penalty. Those without souls, such as the undead, make all tests and saves at +2.
+
+Were one to die while in the vapor, they immediately rise, reanimated and unbound.
+
+The spell lasts SL rounds.
+
