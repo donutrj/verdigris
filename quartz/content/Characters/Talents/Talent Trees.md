@@ -2,14 +2,14 @@
 ``` mermaid
 graph LR
 
-A["[[Talent List#Additives|Additives]]"]
-B["[[Talent List#Alchemy|Alchemy]]"]
-C["[[Talent List#All but the Dregs|All but the Dregs]]"]
-D["[[Talent List#Batch Processing|Batch Processing]]"]
-E["[[Talent List#Bare Essentials|Bare Essentials]]"]
-F["[[Talent List#Lead to Gold|Lead to Gold]]"]
-G["[[Talent List#Potion Belt|Potion Belt]]"]
-H["[[Talent List#The Curwen Cycle|The Curwen Cycle]]"]
+A[<a href="/Characters/Talents/talent-list#additives">Additives</a>]
+B[<a href="/Characters/Talents/talent-list#alchemy">Alchemy</a>]
+C[<a href="/Characters/Talents/talent-list#all-but-the-dregs">All but the Dregs</a>]
+D[<a href="/Characters/Talents/talent-list#batch-processing">Batch Processing</a>]
+E[<a href="/Characters/Talents/talent-list#bare-essentials">Bare Essentials</a>]
+F[<a href="/Characters/Talents/talent-list#lead-to-gold">Lead to Gold</a>]
+G[<a href="/Characters/Talents/talent-list#potion-belt">Potion Belt</a>]
+H[<a href="/Characters/Talents/talent-list#the-curwen-cycle">The Curwen Cycle</a>]
 
 B --> D
 D --> A
@@ -25,21 +25,21 @@ D --> G
 ``` mermaid
 graph LR
 
-A["[[Talent List#Hardy|Hardy]]"]
-B["[[Talent List#Strike Mighty Blow|Strike Mighty Blow]]"]
-C["[[Talent List#Strong Back|Strong Back]]"]
-D["[[Talent List#Berserk Charge|Berserk Charge]]"]
-E["[[Talent List#Slayer|Slayer]]"]
-F["[[Talent List#Iron Will|Iron Will]]"]
-G["[[Talent List#Heavy Hand|Heavy Hand]]"]
-H["[[Talent List#Flesh and Bone|Flesh and Bone]]"]
-J["[[Talent List#Relentless|Relentless]]"]
-K["[[Talent List#Back to the Wall|Back to the Wall]]"]
-L["[[Talent List#Dazing Throw|Dazing Throw]]"]
-M["[[Talent List#Random Bullshit Go|Random Bullshit Go]]"]
-N["[[Talent List#Frenzy|Frenzy]]"]
-O["[[Talent List#Unshakable|Unshakable]]"]
-P["[[Talent List#Never Outmatched|Never Outmatched]]"]
+A[<a href="/Characters/Talents/talent-list#hardy">Hardy</a>]
+B[<a href="/Characters/Talents/talent-list#strike-mighty-blow">Strike Mighty Blow</a>]
+C[<a href="/Characters/Talents/talent-list#strong-back">Strong Back</a>]
+D[<a href="/Characters/Talents/talent-list#berserk-charge">Berserk Charge</a>]
+E[<a href="/Characters/Talents/talent-list#slayer">Slayer</a>]
+F[<a href="/Characters/Talents/talent-list#iron-will">Iron Will</a>]
+G[<a href="/Characters/Talents/talent-list#heavy-hand">Heavy Hand</a>]
+H[<a href="/Characters/Talents/talent-list#flesh-and-bone">Flesh and Bone</a>]
+J[<a href="/Characters/Talents/talent-list#relentless">Relentless</a>]
+K[<a href="/Characters/Talents/talent-list#back-to-the-wall">Back to the Wall</a>]
+L[<a href="/Characters/Talents/talent-list#dazing-throw">Dazing Throw</a>]
+M[<a href="/Characters/Talents/talent-list#random-bullshit-go">Random Bullshit Go</a>]
+N[<a href="/Characters/Talents/talent-list#frenzy">Frenzy</a>]
+O[<a href="/Characters/Talents/talent-list#unshakable">Unshakable</a>]
+P[<a href="/Characters/Talents/talent-list#never-outmatched">Never Outmatched</a>]
 
 F --> J
 A --> B
@@ -65,21 +65,21 @@ E --> P
 ``` mermaid
 graph LR
 
-A["[[Talent List#Physician|Physician]]"]
-B["[[Talent List#Diagnose|Diagnose]]"]
-C["[[Talent List#Sterilize|Sterilize]]"]
-D["[[Talent List#Aprons|Aprons]]"]
-E["[[Talent List#Medical Mal-Practice|Medical Mal-Practice]]"]
-F["[[Talent List#Reputable|Reputable]]"]
-G["[[Talent List#Field Dressing|Field Dressing]]"]
-H["[[Talent List#Disease Resistant|Disease Resistant]]"]
-I["[[Talent List#Precise Cut|Precise Cut]]"]
-J["[[Talent List#Prosthesis|Prosthesis]]"]
-K["[[Talent List#Surgery|Surgery]]"]
-L["[[Talent List#Triage Expert|Triage Expert]]"]
-O["[[Talent List#Mad Doctor|Mad Doctor]]"]
-P["[[Talent List#Medic Here!|Medic Here!]]"]
-M["[[Talent List#Bone Doctor|Bone Doctor]]"]
+A[<a href="/Characters/Talents/talent-list#physician">Physician</a>]
+B[<a href="/Characters/Talents/talent-list#diagnose">Diagnose</a>]
+C[<a href="/Characters/Talents/talent-list#sterilize">Sterilize</a>]
+D[<a href="/Characters/Talents/talent-list#aprons">Aprons</a>]
+E[<a href="/Characters/Talents/talent-list#medical-mal-practice">Medical Mal-Practice</a>]
+F[<a href="/Characters/Talents/talent-list#reputable">Reputable</a>]
+G[<a href="/Characters/Talents/talent-list#field-dressing">Field Dressing</a>]
+H[<a href="/Characters/Talents/talent-list#disease-resistant">Disease Resistant</a>]
+I[<a href="/Characters/Talents/talent-list#precise-cut">Precise Cut</a>]
+J[<a href="/Characters/Talents/talent-list#prosthesis">Prosthesis</a>]
+K[<a href="/Characters/Talents/talent-list#surgery">Surgery</a>]
+L[<a href="/Characters/Talents/talent-list#triage-expert">Triage Expert</a>]
+O[<a href="/Characters/Talents/talent-list#mad-doctor">Mad Doctor</a>]
+P[<a href="/Characters/Talents/talent-list#medic-here">Medic Here!</a>]
+M[<a href="/Characters/Talents/talent-list#bone-doctor">Bone Doctor</a>]
 
 A --> B
 A --> C
@@ -105,18 +105,18 @@ M --> G
 ``` mermaid
 graph LR
 
-A["[[Talent List#Engineering|Engineering]]"]
-B["[[Talent List#Fletcher|Fletcher]]"]
-C["[[Talent List#Gadgeteering|Gadgeteering]]"]
-D["[[Talent List#Guerrilla Warfare|Guerrilla Warfare]]"]
-E["[[Talent List#Guild Grade|Guild Grade]]"]
-F["[[Talent List#Handy|Handy]]"]
-G["[[Talent List#Not Paying for That|Not Paying for That]]"]
-H["[[Talent List#Smithing|Smithing]]"]
-I["[[Talent List#Trinketeering|Trinketeering]]"]
-J["[[Talent List#Woodworking|Woodworking]]"]
-K["[[Talent List#Under Siege|Under Siege]]"]
-L["[[Talent List#Up in Arms|Up in Arms]]"]
+A[<a href="/Characters/Talents/talent-list#engineering">Engineering</a>]
+B[<a href="/Characters/Talents/talent-list#fletcher">Fletcher</a>]
+C[<a href="/Characters/Talents/talent-list#gadgeteering">Gadgeteering</a>]
+D[<a href="/Characters/Talents/talent-list#guerrilla-warfare">Guerrilla Warfare</a>]
+E[<a href="/Characters/Talents/talent-list#guild-grade">Guild Grade</a>]
+F[<a href="/Characters/Talents/talent-list#handy">Handy</a>]
+G[<a href="/Characters/Talents/talent-list#not-paying-for-that">Not Paying for That</a>]
+H[<a href="/Characters/Talents/talent-list#smithing">Smithing</a>]
+I[<a href="/Characters/Talents/talent-list#trinketeering">Trinketeering</a>]
+J[<a href="/Characters/Talents/talent-list#woodworking">Woodworking</a>]
+K[<a href="/Characters/Talents/talent-list#under-siege">Under Siege</a>]
+L[<a href="/Characters/Talents/talent-list#up-in-arms">Up in Arms</a>]
 
 F --> J
 F --> H
@@ -139,20 +139,20 @@ K --> A
 ``` mermaid
 graph LR
 
-A["[[Talent List#Break & Enter|Break & Enter]]"]
-B["[[Talent List#Briber|Briber]]"]
-C["[[Talent List#Bystander|Bystander]]"]
-D["[[Talent List#Cat-Tongued|Cat-Tongued]]"]
-E["[[Talent List#Cheat|Cheat]]"]
-F["[[Talent List#Dirty Fighting|Dirty Fighting]]"]
-G["[[Talent List#Embezzle|Embezzle]]"]
-H["[[Talent List#Fast Hands|Fast Hands]]"]
-I["[[Talent List#Get it Done|Get it Done]]"]
-J["[[Talent List#I Know a Guy|I Know a Guy]]"]
-K["[[Talent List#Master of Disguise|Master of Disguise]]"]
-L["[[Talent List#Nose for Trouble|Nose for Trouble]]"]
-M["[[Talent List#Ringleader|Ringleader]]"]
-O["[[Talent List#Schemer|Schemer]]"]
+A[<a href="/Characters/Talents/talent-list#break--enter">Break & Enter</a>]
+B[<a href="/Characters/Talents/talent-list#briber">Briber</a>]
+C[<a href="/Characters/Talents/talent-list#bystander">Bystander</a>]
+D[<a href="/Characters/Talents/talent-list#cat-tongued">Cat-Tongued</a>]
+E[<a href="/Characters/Talents/talent-list#cheat">Cheat</a>]
+F[<a href="/Characters/Talents/talent-list#dirty-fighting">Dirty Fighting</a>]
+G[<a href="/Characters/Talents/talent-list#embezzle">Embezzle</a>]
+H[<a href="/Characters/Talents/talent-list#fast-hands">Fast Hands</a>]
+I[<a href="/Characters/Talents/talent-list#get-it-done">Get it Done</a>]
+J[<a href="/Characters/Talents/talent-list#i-know-a-guy">I Know a Guy</a>]
+K[<a href="/Characters/Talents/talent-list#master-of-disguise">Master of Disguise</a>]
+L[<a href="/Characters/Talents/talent-list#nose-for-trouble">Nose for Trouble</a>]
+M[<a href="/Characters/Talents/talent-list#ringleader">Ringleader</a>]
+O[<a href="/Characters/Talents/talent-list#schemer">Schemer</a>]
 
 J --> E
 J --> F
@@ -201,21 +201,21 @@ B --> H
 ``` mermaid
 graph LR
 
-A["[[Talent List#Blackpowder|Blackpowder]]"]
-B["[[Talent List#Caracole|Caracole]]"]
-C["[[Talent List#Commanding Presence|Commanding Presence]]"]
-D["[[Talent List#Coolheaded|Coolheaded]]"]
-E["[[Talent List#Deadeye Shot|Deadeye Shot]]"]
-F["[[Talent List#Grizzled|Grizzled]]"]
-G["[[Talent List#Light on Your Feet|Light on Your Feet]]"]
-H["[[Talent List#Modern Techniques|Modern Techniques]]"]
-I["[[Talent List#Pike Push|Pike Push]]"]
-J["[[Talent List#Practiced Gunner|Practiced Gunner]]"]
-K["[[Talent List#Professional|Professional]]"]
-L["[[Talent List#Ready, Loose!|Ready, Loose!]]"]
-M["[[Talent List#Sharpshooter|Sharpshooter]]"]
-N["[[Talent List#Sniper|Sniper]]"]
-O["[[Talent List#Sure Shot|Sure Shot]]"]
+A[<a href="/Characters/Talents/talent-list#blackpowder">Blackpowder</a>]
+B[<a href="/Characters/Talents/talent-list#caracole">Caracole</a>]
+C[<a href="/Characters/Talents/talent-list#commanding-presence">Commanding Presence</a>]
+D[<a href="/Characters/Talents/talent-list#coolheaded">Coolheaded</a>]
+E[<a href="/Characters/Talents/talent-list#deadeye-shot">Deadeye Shot</a>]
+F[<a href="/Characters/Talents/talent-list#grizzled">Grizzled</a>]
+G[<a href="/Characters/Talents/talent-list#light-on-your-feet">Light on Your Feet</a>]
+H[<a href="/Characters/Talents/talent-list#modern-techniques">Modern Techniques</a>]
+I[<a href="/Characters/Talents/talent-list#pike-push">Pike Push</a>]
+J[<a href="/Characters/Talents/talent-list#practiced-gunner">Practiced Gunner</a>]
+K[<a href="/Characters/Talents/talent-list#professional">Professional</a>]
+L[<a href="/Characters/Talents/talent-list#ready-loose">Ready, Loose!</a>]
+M[<a href="/Characters/Talents/talent-list#sharpshooter">Sharpshooter</a>]
+N[<a href="/Characters/Talents/talent-list#sniper">Sniper</a>]
+O[<a href="/Characters/Talents/talent-list#sure-shot">Sure Shot</a>]
 
 H --> K
 H --> M
@@ -240,21 +240,21 @@ O --> E
 ``` mermaid
 graph LR
 
-A["[[Talent List#Accurate Shot|Accurate Shot]]"]
-B["[[Talent List#Combat Reflexes|Combat Reflexes]]"]
-C["[[Talent List#Drilled|Drilled]]"]
-D["[[Talent List#Flee!|Flee!]]"]
-E["[[Talent List#Heroic|Heroic]]"]
-F["[[Talent List#Ironclad|Ironclad]]"]
-G["[[Talent List#Juggernaut|Juggernaut]]"]
-H["[[Talent List#Saddleshot|Saddleshot]]"]
-I["[[Talent List#Shieldmaster|Shieldmaster]]"]
-J["[[Talent List#Strike to Injure|Strike to Injure]]"]
-K["[[Talent List#Orthodox Techniques|Orthodox Techniques]]"]
-L["[[Talent List#Tenacious|Tenacious]]"]
-M["[[Talent List#Unsullied|Unsullied]]"]
-N["[[Talent List#Veteran Status|Veteran Status]]"]
-O["[[Talent List#Quickdraw|Quickdraw]]"]
+A[<a href="/Characters/Talents/talent-list#accurate-shot">Accurate Shot</a>]
+B[<a href="/Characters/Talents/talent-list#combat-reflexes">Combat Reflexes</a>]
+C[<a href="/Characters/Talents/talent-list#drilled">Drilled</a>]
+D[<a href="/Characters/Talents/talent-list#flee">Flee!</a>]
+E[<a href="/Characters/Talents/talent-list#heroic">Heroic</a>]
+F[<a href="/Characters/Talents/talent-list#ironclad">Ironclad</a>]
+G[<a href="/Characters/Talents/talent-list#juggernaut">Juggernaut</a>]
+H[<a href="/Characters/Talents/talent-list#saddleshot">Saddleshot</a>]
+I[<a href="/Characters/Talents/talent-list#shieldmaster">Shieldmaster</a>]
+J[<a href="/Characters/Talents/talent-list#strike-to-injure">Strike to Injure</a>]
+K[<a href="/Characters/Talents/talent-list#orthodox-techniques">Orthodox Techniques</a>]
+L[<a href="/Characters/Talents/talent-list#tenacious">Tenacious</a>]
+M[<a href="/Characters/Talents/talent-list#unsullied">Unsullied</a>]
+N[<a href="/Characters/Talents/talent-list#veteran-status">Veteran Status</a>]
+O[<a href="/Characters/Talents/talent-list#quickdraw">Quickdraw</a>]
 
 K --> C
 K --> B
@@ -276,21 +276,21 @@ M --> E
 ``` mermaid
 graph LR
 
-A["[[Talent List#Blood Magic|Blood Magic]]"]
-B["[[Talent List#Desperate Gambit|Desperate Gambit]]"]
-C["[[Talent List#Dissipation|Dissipation]]"]
-D["[[Talent List#Educated|Educated]]"]
-E["[[Talent List#Enchantment|Enchantment]]"]
-F["[[Talent List#Fine Penmanship|Fine Penmanship]]"]
-G["[[Talent List#Gradient Synchronization|Gradient Synchronization]]"]
-H["[[Talent List#Horseback Arcana|Horseback Arcana]]"]
-I["[[Talent List#Magical Resistance|Magical Resistance]]"]
-J["[[Talent List#Magician Saunter|Magician Saunter]]"]
-K["[[Talent List#Spellwrite|Spellwrite]]"]
-L["[[Talent List#Thaumic Attunement|Thaumic Attunement]]"]
-M["[[Talent List#Thaumic Sensitivity|Thaumic Sensitivity]]"]
-N["[[Talent List#War Wizard|War Wizard]]"]
-O["[[Talent List#Studious|Studious]]"]
+A[<a href="/Characters/Talents/talent-list#blood-magic">Blood Magic</a>]
+B[<a href="/Characters/Talents/talent-list#desperate-gambit">Desperate Gambit</a>]
+C[<a href="/Characters/Talents/talent-list#dissipation">Dissipation</a>]
+D[<a href="/Characters/Talents/talent-list#educated">Educated</a>]
+E[<a href="/Characters/Talents/talent-list#enchantment">Enchantment</a>]
+F[<a href="/Characters/Talents/talent-list#fine-penmanship">Fine Penmanship</a>]
+G[<a href="/Characters/Talents/talent-list#gradient-synchronization">Gradient Synchronization</a>]
+H[<a href="/Characters/Talents/talent-list#horseback-arcana">Horseback Arcana</a>]
+I[<a href="/Characters/Talents/talent-list#magical-resistance">Magical Resistance</a>]
+J[<a href="/Characters/Talents/talent-list#magician-saunter">Magician Saunter</a>]
+K[<a href="/Characters/Talents/talent-list#spellwrite">Spellwrite</a>]
+L[<a href="/Characters/Talents/talent-list#thaumic-attunement">Thaumic Attunement</a>]
+M[<a href="/Characters/Talents/talent-list#thaumic-sensitivity">Thaumic Sensitivity</a>]
+N[<a href="/Characters/Talents/talent-list#war-wizard">War Wizard</a>]
+O[<a href="/Characters/Talents/talent-list#studious">Studious</a>]
 
 I --> N
 D --> H
