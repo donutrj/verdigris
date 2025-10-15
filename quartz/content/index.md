@@ -1,5 +1,6 @@
 ---
 title: Verdigris
+publish_date: October 14, 2025
 ---
 
 # Intent

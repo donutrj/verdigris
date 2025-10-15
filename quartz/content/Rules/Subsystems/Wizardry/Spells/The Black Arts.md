@@ -63,11 +63,10 @@ Cast on a cup or pot of tea.
 When drunk, the drinker takes SL/2 Exhaustion, setting in after an hour. If cast at 6+ SL, the drinker makes a Warding Save. If failed, they immediately fall unconscious and gain Exhausted(1).
 
 To be affected, one must drink at least half a cup.
-
 ## The Phantom Javelin
 Target: 3
 
-
+The caster hurls a spear of spectral absence, requiring the caster to make a [[Combat#Ranged Combat|ranged attack]]. If it hits, the victim loses a wound and any successes in channeling are immediately lost.
 ## To Split Forth the Pit Beneath
 Target: 6-10
 

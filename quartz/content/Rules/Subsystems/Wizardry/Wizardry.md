@@ -1,6 +1,6 @@
 Long refined spells are passed from master to student, copied in colleges and libraries, and slowly iterated upon by generations. As time passes, wars consume kingdoms, and fads pass; much of what is learned is lost to time. Branches form, and people start new schools of magic. 
 
-Famous wizards retain credit for their spells, while the bold young add their own names to tomorrow's spells.
+Famous wizards retain credit for their spells, while the bold young add their own names to the spells of tomorrow.
 # Casting
 Once a character has taken the [[Talent List#Educated|educated]] or [[Penny Talents#Witchcraft|witchcraft]] talent, they use their channel and cast skills to recite their spells from tomes. 
 
@@ -15,6 +15,8 @@ Breaking a caster’s concentration (typically when struck with a weapon) while 
 Spells are fickle little shits. Unless your SL falls within the range of the spell, roll on the magical mishap table. If the Cast Test SL is greater than the spell’s target, it still activates, you just need to also roll on the magical mishap table. 
 
 Landing either side of the spell’s target on a pushed roll results in a magical catastrophe rather than a magical mishap. Push carefully.
+
+In the event a character would suffer the same magical mishap a second time, instead suffer the magic mishap at the same index.
 # Mana Drain
 Every time a wizard casts a spell, they suffer one drain. This is a cumulative penalty to all future channeling and casting tests until the wizard spends a full night resting. 
 
@@ -106,14 +108,6 @@ famous wizards
 + Bayaz
 + Iosiv Lestek
 + Sarmis
-
-Schools of Magic
-+ Conjury
-+ Elementalism
-+ Enchantment
-+ Scrying
-+ Forbidden Arts(?)
-
 # Ideas
 ## Thaumic State
 When making the first casting test on a given day, the caster first rolls 2d6 and adds or subtracts dice from their casting tests based on the ambient state of the thaumic gradient for the rest of the day. The thaumic state does not change for all casters until after the next long rest.
