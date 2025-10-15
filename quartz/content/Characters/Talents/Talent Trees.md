@@ -2,14 +2,14 @@
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#additives">Additives</a>]
-B[<a href="/Characters/Talents/talent-list#alchemy">Alchemy</a>]
-C[<a href="/Characters/Talents/talent-list#all-but-the-dregs">All but the Dregs</a>]
-D[<a href="/Characters/Talents/talent-list#batch-processing">Batch Processing</a>]
-E[<a href="/Characters/Talents/talent-list#bare-essentials">Bare Essentials</a>]
-F[<a href="/Characters/Talents/talent-list#lead-to-gold">Lead to Gold</a>]
-G[<a href="/Characters/Talents/talent-list#potion-belt">Potion Belt</a>]
-H[<a href="/Characters/Talents/talent-list#the-curwen-cycle">The Curwen Cycle</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#additives">Additives</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#alchemy">Alchemy</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#all-but-the-dregs">All but the Dregs</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#batch-processing">Batch Processing</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#bare-essentials">Bare Essentials</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#lead-to-gold">Lead to Gold</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#potion-belt">Potion Belt</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#the-curwen-cycle">The Curwen Cycle</a>]
 
 B --> D
 D --> A
@@ -25,21 +25,21 @@ D --> G
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#hardy">Hardy</a>]
-B[<a href="/Characters/Talents/talent-list#strike-mighty-blow">Strike Mighty Blow</a>]
-C[<a href="/Characters/Talents/talent-list#strong-back">Strong Back</a>]
-D[<a href="/Characters/Talents/talent-list#berserk-charge">Berserk Charge</a>]
-E[<a href="/Characters/Talents/talent-list#slayer">Slayer</a>]
-F[<a href="/Characters/Talents/talent-list#iron-will">Iron Will</a>]
-G[<a href="/Characters/Talents/talent-list#heavy-hand">Heavy Hand</a>]
-H[<a href="/Characters/Talents/talent-list#flesh-and-bone">Flesh and Bone</a>]
-J[<a href="/Characters/Talents/talent-list#relentless">Relentless</a>]
-K[<a href="/Characters/Talents/talent-list#back-to-the-wall">Back to the Wall</a>]
-L[<a href="/Characters/Talents/talent-list#dazing-throw">Dazing Throw</a>]
-M[<a href="/Characters/Talents/talent-list#random-bullshit-go">Random Bullshit Go</a>]
-N[<a href="/Characters/Talents/talent-list#frenzy">Frenzy</a>]
-O[<a href="/Characters/Talents/talent-list#unshakable">Unshakable</a>]
-P[<a href="/Characters/Talents/talent-list#never-outmatched">Never Outmatched</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#hardy">Hardy</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#strike-mighty-blow">Strike Mighty Blow</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#strong-back">Strong Back</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#berserk-charge">Berserk Charge</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#slayer">Slayer</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#iron-will">Iron Will</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#heavy-hand">Heavy Hand</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#flesh-and-bone">Flesh and Bone</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#relentless">Relentless</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#back-to-the-wall">Back to the Wall</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#dazing-throw">Dazing Throw</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#random-bullshit-go">Random Bullshit Go</a>]
+N[<a href="/verdigris/Characters/Talents/Talent-List#frenzy">Frenzy</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#unshakable">Unshakable</a>]
+P[<a href="/verdigris/Characters/Talents/Talent-List#never-outmatched">Never Outmatched</a>]
 
 F --> J
 A --> B
@@ -65,21 +65,21 @@ E --> P
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#physician">Physician</a>]
-B[<a href="/Characters/Talents/talent-list#diagnose">Diagnose</a>]
-C[<a href="/Characters/Talents/talent-list#sterilize">Sterilize</a>]
-D[<a href="/Characters/Talents/talent-list#aprons">Aprons</a>]
-E[<a href="/Characters/Talents/talent-list#medical-mal-practice">Medical Mal-Practice</a>]
-F[<a href="/Characters/Talents/talent-list#reputable">Reputable</a>]
-G[<a href="/Characters/Talents/talent-list#field-dressing">Field Dressing</a>]
-H[<a href="/Characters/Talents/talent-list#disease-resistant">Disease Resistant</a>]
-I[<a href="/Characters/Talents/talent-list#precise-cut">Precise Cut</a>]
-J[<a href="/Characters/Talents/talent-list#prosthesis">Prosthesis</a>]
-K[<a href="/Characters/Talents/talent-list#surgery">Surgery</a>]
-L[<a href="/Characters/Talents/talent-list#triage-expert">Triage Expert</a>]
-O[<a href="/Characters/Talents/talent-list#mad-doctor">Mad Doctor</a>]
-P[<a href="/Characters/Talents/talent-list#medic-here">Medic Here!</a>]
-M[<a href="/Characters/Talents/talent-list#bone-doctor">Bone Doctor</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#physician">Physician</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#diagnose">Diagnose</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#sterilize">Sterilize</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#aprons">Aprons</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#medical-mal-practice">Medical Mal-Practice</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#reputable">Reputable</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#field-dressing">Field Dressing</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#disease-resistant">Disease Resistant</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#precise-cut">Precise Cut</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#prosthesis">Prosthesis</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#surgery">Surgery</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#triage-expert">Triage Expert</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#mad-doctor">Mad Doctor</a>]
+P[<a href="/verdigris/Characters/Talents/Talent-List#medic-here">Medic Here!</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#bone-doctor">Bone Doctor</a>]
 
 A --> B
 A --> C
@@ -105,18 +105,18 @@ M --> G
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#engineering">Engineering</a>]
-B[<a href="/Characters/Talents/talent-list#fletcher">Fletcher</a>]
-C[<a href="/Characters/Talents/talent-list#gadgeteering">Gadgeteering</a>]
-D[<a href="/Characters/Talents/talent-list#guerrilla-warfare">Guerrilla Warfare</a>]
-E[<a href="/Characters/Talents/talent-list#guild-grade">Guild Grade</a>]
-F[<a href="/Characters/Talents/talent-list#handy">Handy</a>]
-G[<a href="/Characters/Talents/talent-list#not-paying-for-that">Not Paying for That</a>]
-H[<a href="/Characters/Talents/talent-list#smithing">Smithing</a>]
-I[<a href="/Characters/Talents/talent-list#trinketeering">Trinketeering</a>]
-J[<a href="/Characters/Talents/talent-list#woodworking">Woodworking</a>]
-K[<a href="/Characters/Talents/talent-list#under-siege">Under Siege</a>]
-L[<a href="/Characters/Talents/talent-list#up-in-arms">Up in Arms</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#engineering">Engineering</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#fletcher">Fletcher</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#gadgeteering">Gadgeteering</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#guerrilla-warfare">Guerrilla Warfare</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#guild-grade">Guild Grade</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#handy">Handy</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#not-paying-for-that">Not Paying for That</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#smithing">Smithing</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#trinketeering">Trinketeering</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#woodworking">Woodworking</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#under-siege">Under Siege</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#up-in-arms">Up in Arms</a>]
 
 F --> J
 F --> H
@@ -139,20 +139,20 @@ K --> A
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#break--enter">Break & Enter</a>]
-B[<a href="/Characters/Talents/talent-list#briber">Briber</a>]
-C[<a href="/Characters/Talents/talent-list#bystander">Bystander</a>]
-D[<a href="/Characters/Talents/talent-list#cat-tongued">Cat-Tongued</a>]
-E[<a href="/Characters/Talents/talent-list#cheat">Cheat</a>]
-F[<a href="/Characters/Talents/talent-list#dirty-fighting">Dirty Fighting</a>]
-G[<a href="/Characters/Talents/talent-list#embezzle">Embezzle</a>]
-H[<a href="/Characters/Talents/talent-list#fast-hands">Fast Hands</a>]
-I[<a href="/Characters/Talents/talent-list#get-it-done">Get it Done</a>]
-J[<a href="/Characters/Talents/talent-list#i-know-a-guy">I Know a Guy</a>]
-K[<a href="/Characters/Talents/talent-list#master-of-disguise">Master of Disguise</a>]
-L[<a href="/Characters/Talents/talent-list#nose-for-trouble">Nose for Trouble</a>]
-M[<a href="/Characters/Talents/talent-list#ringleader">Ringleader</a>]
-O[<a href="/Characters/Talents/talent-list#schemer">Schemer</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#break--enter">Break & Enter</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#briber">Briber</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#bystander">Bystander</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#cat-tongued">Cat-Tongued</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#cheat">Cheat</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#dirty-fighting">Dirty Fighting</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#embezzle">Embezzle</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#fast-hands">Fast Hands</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#get-it-done">Get it Done</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#i-know-a-guy">I Know a Guy</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#master-of-disguise">Master of Disguise</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#nose-for-trouble">Nose for Trouble</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#ringleader">Ringleader</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#schemer">Schemer</a>]
 
 J --> E
 J --> F
@@ -201,21 +201,21 @@ B --> H
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#blackpowder">Blackpowder</a>]
-B[<a href="/Characters/Talents/talent-list#caracole">Caracole</a>]
-C[<a href="/Characters/Talents/talent-list#commanding-presence">Commanding Presence</a>]
-D[<a href="/Characters/Talents/talent-list#coolheaded">Coolheaded</a>]
-E[<a href="/Characters/Talents/talent-list#deadeye-shot">Deadeye Shot</a>]
-F[<a href="/Characters/Talents/talent-list#grizzled">Grizzled</a>]
-G[<a href="/Characters/Talents/talent-list#light-on-your-feet">Light on Your Feet</a>]
-H[<a href="/Characters/Talents/talent-list#modern-techniques">Modern Techniques</a>]
-I[<a href="/Characters/Talents/talent-list#pike-push">Pike Push</a>]
-J[<a href="/Characters/Talents/talent-list#practiced-gunner">Practiced Gunner</a>]
-K[<a href="/Characters/Talents/talent-list#professional">Professional</a>]
-L[<a href="/Characters/Talents/talent-list#ready-loose">Ready, Loose!</a>]
-M[<a href="/Characters/Talents/talent-list#sharpshooter">Sharpshooter</a>]
-N[<a href="/Characters/Talents/talent-list#sniper">Sniper</a>]
-O[<a href="/Characters/Talents/talent-list#sure-shot">Sure Shot</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#blackpowder">Blackpowder</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#caracole">Caracole</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#commanding-presence">Commanding Presence</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#coolheaded">Coolheaded</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#deadeye-shot">Deadeye Shot</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#grizzled">Grizzled</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#light-on-your-feet">Light on Your Feet</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#modern-techniques">Modern Techniques</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#pike-push">Pike Push</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#practiced-gunner">Practiced Gunner</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#professional">Professional</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#ready-loose">Ready, Loose!</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#sharpshooter">Sharpshooter</a>]
+N[<a href="/verdigris/Characters/Talents/Talent-List#sniper">Sniper</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#sure-shot">Sure Shot</a>]
 
 H --> K
 H --> M
@@ -240,21 +240,21 @@ O --> E
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#accurate-shot">Accurate Shot</a>]
-B[<a href="/Characters/Talents/talent-list#combat-reflexes">Combat Reflexes</a>]
-C[<a href="/Characters/Talents/talent-list#drilled">Drilled</a>]
-D[<a href="/Characters/Talents/talent-list#flee">Flee!</a>]
-E[<a href="/Characters/Talents/talent-list#heroic">Heroic</a>]
-F[<a href="/Characters/Talents/talent-list#ironclad">Ironclad</a>]
-G[<a href="/Characters/Talents/talent-list#juggernaut">Juggernaut</a>]
-H[<a href="/Characters/Talents/talent-list#saddleshot">Saddleshot</a>]
-I[<a href="/Characters/Talents/talent-list#shieldmaster">Shieldmaster</a>]
-J[<a href="/Characters/Talents/talent-list#strike-to-injure">Strike to Injure</a>]
-K[<a href="/Characters/Talents/talent-list#orthodox-techniques">Orthodox Techniques</a>]
-L[<a href="/Characters/Talents/talent-list#tenacious">Tenacious</a>]
-M[<a href="/Characters/Talents/talent-list#unsullied">Unsullied</a>]
-N[<a href="/Characters/Talents/talent-list#veteran-status">Veteran Status</a>]
-O[<a href="/Characters/Talents/talent-list#quickdraw">Quickdraw</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#accurate-shot">Accurate Shot</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#combat-reflexes">Combat Reflexes</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#drilled">Drilled</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#flee">Flee!</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#heroic">Heroic</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#ironclad">Ironclad</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#juggernaut">Juggernaut</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#saddleshot">Saddleshot</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#shieldmaster">Shieldmaster</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#strike-to-injure">Strike to Injure</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#orthodox-techniques">Orthodox Techniques</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#tenacious">Tenacious</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#unsullied">Unsullied</a>]
+N[<a href="/verdigris/Characters/Talents/Talent-List#veteran-status">Veteran Status</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#quickdraw">Quickdraw</a>]
 
 K --> C
 K --> B
@@ -276,21 +276,21 @@ M --> E
 ``` mermaid
 graph LR
 
-A[<a href="/Characters/Talents/talent-list#blood-magic">Blood Magic</a>]
-B[<a href="/Characters/Talents/talent-list#desperate-gambit">Desperate Gambit</a>]
-C[<a href="/Characters/Talents/talent-list#dissipation">Dissipation</a>]
-D[<a href="/Characters/Talents/talent-list#educated">Educated</a>]
-E[<a href="/Characters/Talents/talent-list#enchantment">Enchantment</a>]
-F[<a href="/Characters/Talents/talent-list#fine-penmanship">Fine Penmanship</a>]
-G[<a href="/Characters/Talents/talent-list#gradient-synchronization">Gradient Synchronization</a>]
-H[<a href="/Characters/Talents/talent-list#horseback-arcana">Horseback Arcana</a>]
-I[<a href="/Characters/Talents/talent-list#magical-resistance">Magical Resistance</a>]
-J[<a href="/Characters/Talents/talent-list#magician-saunter">Magician Saunter</a>]
-K[<a href="/Characters/Talents/talent-list#spellwrite">Spellwrite</a>]
-L[<a href="/Characters/Talents/talent-list#thaumic-attunement">Thaumic Attunement</a>]
-M[<a href="/Characters/Talents/talent-list#thaumic-sensitivity">Thaumic Sensitivity</a>]
-N[<a href="/Characters/Talents/talent-list#war-wizard">War Wizard</a>]
-O[<a href="/Characters/Talents/talent-list#studious">Studious</a>]
+A[<a href="/verdigris/Characters/Talents/Talent-List#blood-magic">Blood Magic</a>]
+B[<a href="/verdigris/Characters/Talents/Talent-List#desperate-gambit">Desperate Gambit</a>]
+C[<a href="/verdigris/Characters/Talents/Talent-List#dissipation">Dissipation</a>]
+D[<a href="/verdigris/Characters/Talents/Talent-List#educated">Educated</a>]
+E[<a href="/verdigris/Characters/Talents/Talent-List#enchantment">Enchantment</a>]
+F[<a href="/verdigris/Characters/Talents/Talent-List#fine-penmanship">Fine Penmanship</a>]
+G[<a href="/verdigris/Characters/Talents/Talent-List#gradient-synchronization">Gradient Synchronization</a>]
+H[<a href="/verdigris/Characters/Talents/Talent-List#horseback-arcana">Horseback Arcana</a>]
+I[<a href="/verdigris/Characters/Talents/Talent-List#magical-resistance">Magical Resistance</a>]
+J[<a href="/verdigris/Characters/Talents/Talent-List#magician-saunter">Magician Saunter</a>]
+K[<a href="/verdigris/Characters/Talents/Talent-List#spellwrite">Spellwrite</a>]
+L[<a href="/verdigris/Characters/Talents/Talent-List#thaumic-attunement">Thaumic Attunement</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#thaumic-sensitivity">Thaumic Sensitivity</a>]
+N[<a href="/verdigris/Characters/Talents/Talent-List#war-wizard">War Wizard</a>]
+O[<a href="/verdigris/Characters/Talents/Talent-List#studious">Studious</a>]
 
 I --> N
 D --> H
