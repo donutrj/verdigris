@@ -51,6 +51,8 @@ You can retain a number of languages equal to the number of times you've taken t
 Max: 1
 
 The gods smiled upon you and granted you with great fortune. Once per session you may reroll any one die.. This can be done after pushing.
+
+A die that is affected this way cannot be affected by luck a second time.
 ## Night Vision
 Max: Intelligence
 

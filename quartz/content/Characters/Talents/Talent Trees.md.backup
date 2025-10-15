@@ -117,6 +117,7 @@ I[<a class='internal-link is-unresolved' href='Talent List#Trinketeering'>Trinke
 J[<a class='internal-link is-unresolved' href='Talent List#Woodworking'>Woodworking</a>]
 K[<a class='internal-link is-unresolved' href='Talent List#Under Siege'>Under Siege</a>]
 L[<a class='internal-link is-unresolved' href='Talent List#Up in Arms'>Up in Arms</a>]
+M[<a class='internal-link is-unresolved' href='Talent List#Outback Specialist'>Outback Specialist</a>]
 
 F --> J
 F --> H
@@ -131,6 +132,8 @@ I --> C
 C --> A
 E --> A
 K --> A
+J --> M
+G --> M
 
 
 

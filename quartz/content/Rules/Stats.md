@@ -34,7 +34,7 @@ As an adventurer, you must often repair your gear if it breaks. Typically, it ta
 Roll for this skill when trying to dodge an attack or flee from combat.
 ### Healing
 As an adventurer there is a significant risk that you and your friends will be injured, sooner or later. That is when healing is useful – with this skill you can get fallen companions back on their feet or even save their lives.
-### Hunting & Fishing
+### Hunting & Gathering
 Out in the wild, you will often need to find your own food by hunting or fishing.
 ### Insight
 Sometimes the truth of the matter is written on one's face, other times it is clearly absent from an expression. Use this to ascertain intention and assess whether you're being told a lie.

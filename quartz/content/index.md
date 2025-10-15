@@ -1,7 +1,7 @@
 ---
 title: Verdigris
 ---
-*Published Version October 14, 2025*
+*Published October 14, 2025*
 # Intent
 I've written a lot of games before this with d6 pool mechanics. I've made games with fun battles and team play. What I want to build here is a campaign friendly system with a lot of room for character development. Much of what former games lacked was progression, I hope this gives players the kind of enjoyable choice-paralysis that drives my group. 
 # Mechanics

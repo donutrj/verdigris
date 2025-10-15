@@ -282,6 +282,10 @@ Gain a +X bonus to your crafting and repair tests, where X is equal to the maxim
 Max: 2
 
 You can reattempt repairing objects additional times equal to your level in this talent.
+## Outback Specialist
+Max: 1
+
+You know how to throw something together when there isn't much to work with. You can apply half your [[Talent List#Handy|handy]] bonus (round up) to [[Stats#Skills#Bushcraft|bushcraft]] tests.
 ## Smithing
 Max: Strength
 

@@ -117,6 +117,7 @@ I[<a href="/verdigris/Characters/Talents/Talent-List#trinketeering">Trinketeerin
 J[<a href="/verdigris/Characters/Talents/Talent-List#woodworking">Woodworking</a>]
 K[<a href="/verdigris/Characters/Talents/Talent-List#under-siege">Under Siege</a>]
 L[<a href="/verdigris/Characters/Talents/Talent-List#up-in-arms">Up in Arms</a>]
+M[<a href="/verdigris/Characters/Talents/Talent-List#outback-specialist">Outback Specialist</a>]
 
 F --> J
 F --> H
@@ -131,6 +132,8 @@ I --> C
 C --> A
 E --> A
 K --> A
+J --> M
+G --> M
 
 
 
