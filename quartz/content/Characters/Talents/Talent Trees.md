@@ -2,14 +2,14 @@
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Additives'>Additives</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Alchemy'>Alchemy</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#All but the Dregs'>All but the Dregs</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Batch Processing'>Batch Processing</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Bare Essentials'>Bare Essentials</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Lead to Gold'>Lead to Gold</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Potion Belt'>Potion Belt</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#The Curwen Cycle'>The Curwen Cycle</a>]
+A["[[Talent List#Additives|Additives]]"]
+B["[[Talent List#Alchemy|Alchemy]]"]
+C["[[Talent List#All but the Dregs|All but the Dregs]]"]
+D["[[Talent List#Batch Processing|Batch Processing]]"]
+E["[[Talent List#Bare Essentials|Bare Essentials]]"]
+F["[[Talent List#Lead to Gold|Lead to Gold]]"]
+G["[[Talent List#Potion Belt|Potion Belt]]"]
+H["[[Talent List#The Curwen Cycle|The Curwen Cycle]]"]
 
 B --> D
 D --> A
@@ -25,21 +25,21 @@ D --> G
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Hardy'>Hardy</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Strike Mighty Blow'>Strike Mighty Blow</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Strong Back'>Strong Back</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Berserk Charge'>Berserk Charge</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Slayer'>Slayer</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Iron Will'>Iron Will</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Heavy Hand'>Heavy Hand</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Flesh and Bone'>Flesh and Bone</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Relentless'>Relentless</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Back to the Wall'>Back to the Wall</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Dazing Throw'>Dazing Throw</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Random Bullshit Go'>Random Bullshit Go</a>]
-N[<a class='internal-link is-unresolved' href='Talent List#Frenzy'>Frenzy</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Unshakable'>Unshakable</a>]
-P[<a class='internal-link is-unresolved' href='Talent List#Never Outmatched'>Never Outmatched</a>]
+A["[[Talent List#Hardy|Hardy]]"]
+B["[[Talent List#Strike Mighty Blow|Strike Mighty Blow]]"]
+C["[[Talent List#Strong Back|Strong Back]]"]
+D["[[Talent List#Berserk Charge|Berserk Charge]]"]
+E["[[Talent List#Slayer|Slayer]]"]
+F["[[Talent List#Iron Will|Iron Will]]"]
+G["[[Talent List#Heavy Hand|Heavy Hand]]"]
+H["[[Talent List#Flesh and Bone|Flesh and Bone]]"]
+J["[[Talent List#Relentless|Relentless]]"]
+K["[[Talent List#Back to the Wall|Back to the Wall]]"]
+L["[[Talent List#Dazing Throw|Dazing Throw]]"]
+M["[[Talent List#Random Bullshit Go|Random Bullshit Go]]"]
+N["[[Talent List#Frenzy|Frenzy]]"]
+O["[[Talent List#Unshakable|Unshakable]]"]
+P["[[Talent List#Never Outmatched|Never Outmatched]]"]
 
 F --> J
 A --> B
@@ -65,21 +65,21 @@ E --> P
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Physician'>Physician</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Diagnose'>Diagnose</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Sterilize'>Sterilize</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Aprons'>Aprons</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Medical Mal-Practice'>Medical Mal-Practice</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Reputable'>Reputable</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Field Dressing'>Field Dressing</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Disease Resistant'>Disease Resistant</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Precise Cut'>Precise Cut</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Prosthesis'>Prosthesis</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Surgery'>Surgery</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Triage Expert'>Triage Expert</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Mad Doctor'>Mad Doctor</a>]
-P[<a class='internal-link is-unresolved' href='Talent List#Medic Here!'>Medic Here!</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Bone Doctor'>Bone Doctor</a>]
+A["[[Talent List#Physician|Physician]]"]
+B["[[Talent List#Diagnose|Diagnose]]"]
+C["[[Talent List#Sterilize|Sterilize]]"]
+D["[[Talent List#Aprons|Aprons]]"]
+E["[[Talent List#Medical Mal-Practice|Medical Mal-Practice]]"]
+F["[[Talent List#Reputable|Reputable]]"]
+G["[[Talent List#Field Dressing|Field Dressing]]"]
+H["[[Talent List#Disease Resistant|Disease Resistant]]"]
+I["[[Talent List#Precise Cut|Precise Cut]]"]
+J["[[Talent List#Prosthesis|Prosthesis]]"]
+K["[[Talent List#Surgery|Surgery]]"]
+L["[[Talent List#Triage Expert|Triage Expert]]"]
+O["[[Talent List#Mad Doctor|Mad Doctor]]"]
+P["[[Talent List#Medic Here!|Medic Here!]]"]
+M["[[Talent List#Bone Doctor|Bone Doctor]]"]
 
 A --> B
 A --> C
@@ -105,18 +105,18 @@ M --> G
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Engineering'>Engineering</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Fletcher'>Fletcher</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Gadgeteering'>Gadgeteering</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Guerrilla Warfare'>Guerrilla Warfare</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Guild Grade'>Guild Grade</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Handy'>Handy</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Not Paying for That'>Not Paying for That</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Smithing'>Smithing</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Trinketeering'>Trinketeering</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Woodworking'>Woodworking</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Under Siege'>Under Siege</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Up in Arms'>Up in Arms</a>]
+A["[[Talent List#Engineering|Engineering]]"]
+B["[[Talent List#Fletcher|Fletcher]]"]
+C["[[Talent List#Gadgeteering|Gadgeteering]]"]
+D["[[Talent List#Guerrilla Warfare|Guerrilla Warfare]]"]
+E["[[Talent List#Guild Grade|Guild Grade]]"]
+F["[[Talent List#Handy|Handy]]"]
+G["[[Talent List#Not Paying for That|Not Paying for That]]"]
+H["[[Talent List#Smithing|Smithing]]"]
+I["[[Talent List#Trinketeering|Trinketeering]]"]
+J["[[Talent List#Woodworking|Woodworking]]"]
+K["[[Talent List#Under Siege|Under Siege]]"]
+L["[[Talent List#Up in Arms|Up in Arms]]"]
 
 F --> J
 F --> H
@@ -139,20 +139,20 @@ K --> A
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Break & Enter'>Break & Enter</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Briber'>Briber</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Bystander'>Bystander</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Cat-Tongued'>Cat-Tongued</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Cheat'>Cheat</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Dirty Fighting'>Dirty Fighting</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Embezzle'>Embezzle</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Fast Hands'>Fast Hands</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Get it Done'>Get it Done</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#I Know a Guy'>I Know a Guy</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Master of Disguise'>Master of Disguise</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Nose for Trouble'>Nose for Trouble</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Ringleader'>Ringleader</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Schemer'>Schemer</a>]
+A["[[Talent List#Break & Enter|Break & Enter]]"]
+B["[[Talent List#Briber|Briber]]"]
+C["[[Talent List#Bystander|Bystander]]"]
+D["[[Talent List#Cat-Tongued|Cat-Tongued]]"]
+E["[[Talent List#Cheat|Cheat]]"]
+F["[[Talent List#Dirty Fighting|Dirty Fighting]]"]
+G["[[Talent List#Embezzle|Embezzle]]"]
+H["[[Talent List#Fast Hands|Fast Hands]]"]
+I["[[Talent List#Get it Done|Get it Done]]"]
+J["[[Talent List#I Know a Guy|I Know a Guy]]"]
+K["[[Talent List#Master of Disguise|Master of Disguise]]"]
+L["[[Talent List#Nose for Trouble|Nose for Trouble]]"]
+M["[[Talent List#Ringleader|Ringleader]]"]
+O["[[Talent List#Schemer|Schemer]]"]
 
 J --> E
 J --> F
@@ -201,21 +201,21 @@ B --> H
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Blackpowder'>Blackpowder</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Caracole'>Caracole</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Commanding Presence'>Commanding Presence</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Coolheaded'>Coolheaded</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Deadeye Shot'>Deadeye Shot</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Grizzled'>Grizzled</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Light on Your Feet'>Light on Your Feet</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Modern Techniques'>Modern Techniques</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Pike Push'>Pike Push</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Practiced Gunner'>Practiced Gunner</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Professional'>Professional</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Ready, Loose!'>Ready, Loose!</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Sharpshooter'>Sharpshooter</a>]
-N[<a class='internal-link is-unresolved' href='Talent List#Sniper'>Sniper</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Sure Shot'>Sure Shot</a>]
+A["[[Talent List#Blackpowder|Blackpowder]]"]
+B["[[Talent List#Caracole|Caracole]]"]
+C["[[Talent List#Commanding Presence|Commanding Presence]]"]
+D["[[Talent List#Coolheaded|Coolheaded]]"]
+E["[[Talent List#Deadeye Shot|Deadeye Shot]]"]
+F["[[Talent List#Grizzled|Grizzled]]"]
+G["[[Talent List#Light on Your Feet|Light on Your Feet]]"]
+H["[[Talent List#Modern Techniques|Modern Techniques]]"]
+I["[[Talent List#Pike Push|Pike Push]]"]
+J["[[Talent List#Practiced Gunner|Practiced Gunner]]"]
+K["[[Talent List#Professional|Professional]]"]
+L["[[Talent List#Ready, Loose!|Ready, Loose!]]"]
+M["[[Talent List#Sharpshooter|Sharpshooter]]"]
+N["[[Talent List#Sniper|Sniper]]"]
+O["[[Talent List#Sure Shot|Sure Shot]]"]
 
 H --> K
 H --> M
@@ -240,21 +240,21 @@ O --> E
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Accurate Shot'>Accurate Shot</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Combat Reflexes'>Combat Reflexes</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Drilled'>Drilled</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Flee!'>Flee!</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Heroic'>Heroic</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Ironclad'>Ironclad</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Juggernaut'>Juggernaut</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Saddleshot'>Saddleshot</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Shieldmaster'>Shieldmaster</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Strike to Injure'>Strike to Injure</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Orthodox Techniques'>Orthodox Techniques</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Tenacious'>Tenacious</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Unsullied'>Unsullied</a>]
-N[<a class='internal-link is-unresolved' href='Talent List#Veteran Status'>Veteran Status</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Quickdraw'>Quickdraw</a>]
+A["[[Talent List#Accurate Shot|Accurate Shot]]"]
+B["[[Talent List#Combat Reflexes|Combat Reflexes]]"]
+C["[[Talent List#Drilled|Drilled]]"]
+D["[[Talent List#Flee!|Flee!]]"]
+E["[[Talent List#Heroic|Heroic]]"]
+F["[[Talent List#Ironclad|Ironclad]]"]
+G["[[Talent List#Juggernaut|Juggernaut]]"]
+H["[[Talent List#Saddleshot|Saddleshot]]"]
+I["[[Talent List#Shieldmaster|Shieldmaster]]"]
+J["[[Talent List#Strike to Injure|Strike to Injure]]"]
+K["[[Talent List#Orthodox Techniques|Orthodox Techniques]]"]
+L["[[Talent List#Tenacious|Tenacious]]"]
+M["[[Talent List#Unsullied|Unsullied]]"]
+N["[[Talent List#Veteran Status|Veteran Status]]"]
+O["[[Talent List#Quickdraw|Quickdraw]]"]
 
 K --> C
 K --> B
@@ -276,21 +276,21 @@ M --> E
 ``` mermaid
 graph LR
 
-A[<a class='internal-link is-unresolved' href='Talent List#Blood Magic'>Blood Magic</a>]
-B[<a class='internal-link is-unresolved' href='Talent List#Desperate Gambit'>Desperate Gambit</a>]
-C[<a class='internal-link is-unresolved' href='Talent List#Dissipation'>Dissipation</a>]
-D[<a class='internal-link is-unresolved' href='Talent List#Educated'>Educated</a>]
-E[<a class='internal-link is-unresolved' href='Talent List#Enchantment'>Enchantment</a>]
-F[<a class='internal-link is-unresolved' href='Talent List#Fine Penmanship'>Fine Penmanship</a>]
-G[<a class='internal-link is-unresolved' href='Talent List#Gradient Synchronization'>Gradient Synchronization</a>]
-H[<a class='internal-link is-unresolved' href='Talent List#Horseback Arcana'>Horseback Arcana</a>]
-I[<a class='internal-link is-unresolved' href='Talent List#Magical Resistance'>Magical Resistance</a>]
-J[<a class='internal-link is-unresolved' href='Talent List#Magician Saunter'>Magician Saunter</a>]
-K[<a class='internal-link is-unresolved' href='Talent List#Spellwrite'>Spellwrite</a>]
-L[<a class='internal-link is-unresolved' href='Talent List#Thaumic Attunement'>Thaumic Attunement</a>]
-M[<a class='internal-link is-unresolved' href='Talent List#Thaumic Sensitivity'>Thaumic Sensitivity</a>]
-N[<a class='internal-link is-unresolved' href='Talent List#War Wizard'>War Wizard</a>]
-O[<a class='internal-link is-unresolved' href='Talent List#Studious'>Studious</a>]
+A["[[Talent List#Blood Magic|Blood Magic]]"]
+B["[[Talent List#Desperate Gambit|Desperate Gambit]]"]
+C["[[Talent List#Dissipation|Dissipation]]"]
+D["[[Talent List#Educated|Educated]]"]
+E["[[Talent List#Enchantment|Enchantment]]"]
+F["[[Talent List#Fine Penmanship|Fine Penmanship]]"]
+G["[[Talent List#Gradient Synchronization|Gradient Synchronization]]"]
+H["[[Talent List#Horseback Arcana|Horseback Arcana]]"]
+I["[[Talent List#Magical Resistance|Magical Resistance]]"]
+J["[[Talent List#Magician Saunter|Magician Saunter]]"]
+K["[[Talent List#Spellwrite|Spellwrite]]"]
+L["[[Talent List#Thaumic Attunement|Thaumic Attunement]]"]
+M["[[Talent List#Thaumic Sensitivity|Thaumic Sensitivity]]"]
+N["[[Talent List#War Wizard|War Wizard]]"]
+O["[[Talent List#Studious|Studious]]"]
 
 I --> N
 D --> H
