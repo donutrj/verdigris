@@ -13,7 +13,7 @@
 # Skills
 If a character attempts something and they have a relevant skill, the player rolls bonus dice equal to the level of that skill during the test.
 
-Skills are used in conjunction with attributes when making [[Tests & Saves#Tests|tests]]. They provide a bonus and are improvable by spending [[Experience#Spending Experience|xp]]. 
+Skills are used in conjunction with attributes when making [[Tests & Saves#Tests|tests]]. They provide a bonus and are improvable by spending [[Experience#Spending Experience|experience]]. 
 ### Acrobatics
 When jumping, climbing, balancing or performing a similar physical action, roll for this skill.
 ### Awareness
@@ -29,7 +29,7 @@ To quickly come up with a convincing lie can be an invaluable skill as an advent
 ### Bushcraft
 The vast wilderness is a dangerous place where wild beasts roam. The ignorant can lose their lives by choosing the wrong path through the woods or making camp in the wrong spot. Roll for bushcraft to lead the way through the wilderness, make camp, cook food, or stay warm in cold weather.
 ### Crafting
-As an adventurer, you must often repair your gear if it breaks. Typically, it takes one shift to repair a damaged item, and you need access to the appropriate tools (pg. 78)
+As an adventurer, you must often repair your gear if it breaks. Typically, it takes [[Activities#The Standard Day|one shift]] to repair a damaged item, and you need access to the appropriate tools.
 ### Evade
 Roll for this skill when trying to dodge an attack or flee from combat.
 ### Healing
@@ -59,7 +59,7 @@ When you are trying to steal something unnoticed, pick a lock, or perform any ot
 ### Sneaking
 It is often wise to avoid combat and hide or sneak past the enemy instead. If you win, you remain undetected. It is usually a straight skill roll, but if someone is actively looking for you, you must make an opposed roll with your sneaking against the enemy’s awareness.
 
-Note that you can only make a sneaking roll when you can actually see or hear the enemy you wish to avoid. You never use sneaking “just in case” there is an enemy nearby.
+> **Note:** that you can only make a sneaking roll when you can actually see or hear the enemy you wish to avoid. You never use sneaking “just in case” there is an enemy nearby.
 #### Group Sneaking:
 If multiple player characters are sneaking around together, each person makes a separate roll. If one of you fails, the whole group is detected.
 ### Spot Hidden
@@ -71,7 +71,7 @@ All player characters can keep afloat for a short time, but for more challenging
 # Backgrounds
 Backgrounds are what your character was before they became an adventurer. These come into play when a character makes a test in which their past experience would convey a bonus. 
 
-***e.g.** A character with the background wheat farmer is trying to determine if it'll rain before they reach town. That player would get a bonus for their background considering predicting the weather is important to a farmer.*
+>**e.g.** A character with the background wheat farmer is trying to determine if it'll rain before they reach town. That player would get a bonus for their background considering predicting the weather is important to a farmer.
 ## Wounds & Hit Points
 When characters take damage, they reduce their hit points (HP) by the corresponding amount. When damage is severe or their HP is reduced to zero they take a wound. [[Combat#Damage|Learn more in the combat section]]. 
 # Talents

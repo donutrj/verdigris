@@ -13,7 +13,7 @@ Space in Verdigris is abstracted to zones. A character can use their movement to
 
 For the purpose of ranged combat, battles consist within the range of weapons. Penalties can be awarded for attempting long shots, shooting into cover, etc..
 ## Attacking & Defending
-To attack, a player makes a test (strength for melee & bows, agility for crossbows and blackpowder) opposed by the defender's dodge save. If the attacker gets more SL than the defender, the attack connects. 
+To attack, a player makes a test (strength for melee, thrown & bows, agility for crossbows and blackpowder) opposed by the defender's dodge save. If the attacker gets more SL than the defender, the attack connects. 
 
 The defender must then make a withstand save, adding gear dice for their armor. Each success reduces the damage of the attack by one. 
 ### Melees
@@ -63,7 +63,7 @@ If a player character reaches 0 HP and has no Wounds remaining, they are at Deat
 ## Death’s Door
 When a character reaches zero wounds and hit points, they are on Death’s Door. Once a minute or on their turn in combat, make a withstand save. On a fail, the character is dead. 
 ## Weapon Damage
-A [[Arms & Armor#Weapons|weapon’s table entry]] will have a damage and bonus listed. When a target is struck, reduce the target’s hit points equal to the damage value + 1 for each SL. 
+A [[Arms & Armor#Melee Weapons|weapon’s table entry]] will have a damage and bonus listed. When a target is struck, reduce the target’s hit points equal to the damage value + 1 for each SL. 
 # Inventory Management
 A character can access items on their belt once on their turn as a free action, whereas getting an item from their pack is an action.
 

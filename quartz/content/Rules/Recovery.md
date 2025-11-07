@@ -1,19 +1,22 @@
 Recovering from injuries takes time. Wounds can patched and humors balanced, but it's up to the body to stitch muscles back together. While anyone can try to help the process along with a little first aid, often it's best to leave it be.
 # Medical Attention
 Medical attention includes, but is not limited to:
-+ Successful use of the heal skill
++ Successful use of the [[Stats#Healing|heal skill]]
 + Application of bandages, healing poultices, or similar
 + Successful use of a spell or prayer that heals
 
 Any healing test used to remove bleeding conditions, applying a bandage, or drinking potions are one turn actions that can be repeated turn after turn. Such actions cannot be taken while in a melee.
 ## Surgery
 Surgery (typically requiring the [[Talent List#Surgery|surgery talent]]) assumes you have at least a Physician's Toolkit. Any surgery used to remove bleeding conditions (with the requirement for surgery defined in the critical hit chart results) is a one turn action as well. Using surgery to prevent long-term effects, like setting a complicated fracture, will usually take an hour or more.
+### Improvised Surgery
+In dire situations, it might be necessary for the untrained to attempt a surgery. Without the talent, the character attempting the surgery cannot benefit from skill or bonus dice when making the test. Improvised surgeries still benefit from the gear dice of the Physician's Toolkit.
 ## Embedded Projectiles
 Critical hits from projectiles will often result in the projectile remaining lodged in the character's body. The requirement for, and difficulty of, any such removal will vary by table and result. If a projectile is lodged, it will be stated as requiring Extraction(*required SL*) or that the extraction will require surgery, specified as Surgery(*required SL*). If there is added risk of infection it will also be stated.
 
 A failed extraction test results in Bleeding (1).
 ## Festering Wounds
 Festering wounds are open bloody injuries, prone to attracting dirt and grime. When testing for an infection, make it with a -2 penalty.
+#expand
 ## Broken Bones
 Small fractures may heal on their own accord, but severe breaks, with bone protruding at odd angles from the flesh, are a different matter entirely, If you suffer a Broken Bone, it will be marked as minor or major.
 ### Minor
@@ -43,7 +46,7 @@ The muscle will partially heal after 5d6 days, reducing the penalty to -1. After
 ## Amputated Parts
 Many of the more severe Critical Wounds result in the loss of a body part, such as fingers, hands, feet, or even a whole leg! Should a character suffer more than one severed body part, it is probably time to start looking for an appropriate replacement to mitigate any possible penalties.
 
-Whenever you suffer a Critical Wound marked Amputation (difficulty), you must pass a Withstand or Panic Save (the difficulty is marked in the brackets) or gain a Prone Condition. Failure by two or more, you also gain a Stunned Condition; or Unconscious Condition if failed by four or more.
+Whenever you suffer a Critical Wound marked Amputation (difficulty), you must pass either a Withstand or Panic Save (the difficulty is marked in the brackets) or gain a Prone Condition. Failure by two or more, you also gain a Stunned Condition; or Unconscious Condition if failed by four or more.
 ### Arm
 Use the rules for lost hand, but you cannot strap a shield to the arm since you don’t have one.
 ### Ear
@@ -72,14 +75,13 @@ Loss of toes has an adverse effect on your balance. For every two toes lost, suf
 Loss of a tongue leaves you grunting and humming, or relying on make-shift sign language  for communication.
 # Resting
 Recovering from injuries takes time. When a character spend a [[Activities#Resting|whole night resting]], they roll for 1d6 points. The result can be spent in the ways below. 
-- Recover all hit points for 1 point.
-- Recover all drain for 1 point.
-- Recover a lost attribute point for 1 point.
-- Recover all [[Conditions#Exhausted|exhausted conditions]] for 3 points.
-- Recover a lost wound for 3 points
++ Recover all hit points for 1 point.
++ Recover all drain for 1 point.
++ Recover a lost attribute point for 1 point.
++ Recover all [[Conditions#Exhausted|exhausted conditions]] for 3 points.
++ Recover a lost wound for 3 points
 Points do not persist between rests. If a character takes a turn at watch or are otherwise partially occupied, they roll 1d3 instead.
 
 If a character is fully occupied tending to the injured character's wounds, the recovering character rolls 2d6, keeping the better.
-
 ## Magical Afflictions
 Magical afflictions are entirely situation specific. Consult your local wizard.

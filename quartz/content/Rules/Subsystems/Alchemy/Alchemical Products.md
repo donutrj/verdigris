@@ -5,7 +5,7 @@ A rust-colored potion. When boiled in a confined space, the vapor leaves the roo
 ## Gravefire Cordial
 A syrupy blue liquid that tastes of almonds gone bad. When drunk it dulls the mind to pain, allowing them to ignore some effects of [[Recovery#Torn Muscles|torn muscles]] and [[Recovery#Broken Bones|broken bones]].
 
-Often leads to the injuries worsening as the body's pleads are ignored. 
+Often leads to the injuries worsening as the body's pleas are ignored. 
 ## Kaelen's Blasting Grease
 A glossy brown oil that roughens the skin on contact and adheres strongly to metal. When struck by sudden force, it reacts violently, transforming into a thick, opaque gas that leaves a bitter taste in the air.
 

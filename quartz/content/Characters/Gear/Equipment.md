@@ -92,7 +92,7 @@ Animals require care, but under most circumstances are self-sufficient. In harsh
 
 | Names                  | Cost | Details                                                        |
 | ---------------------- | ---- | -------------------------------------------------------------- |
-| Alchemical Reagents    | 15   | Used when [[New Alchemy#Alchemical Reagents\|brewing potions]] |
+| Alchemical Reagents    | 15   | Used when [[Alchemy#Alchemical Reagents\|brewing potions]] |
 | Bandages               | 10   | +1 gear in medical situations                                  |
 | Blanket                | 4    |                                                                |
 | Book                   | 50   |                                                                |

@@ -16,7 +16,7 @@ The following is a non-exhaustive list of various activities characters can get 
 | Studying       | Wizard and library stuff                                                        |
 | Wound Tending  | Actively caring for someone to speed their recovery or tend to critical wounds. |
 ## Brewing
-Spend time reducing ingredients into reagents and reagents into potions. Learn more about brewing [[New Alchemy|here]]. 
+Spend time reducing ingredients into reagents and reagents into potions. Learn more about brewing [[Alchemy|here]]. 
 ## Foraging
 Spending the time looking for animals, roots, alchemical ingredients, etc. The following table assumes the character is looking for food, representing bonuses to the intelligence test - with each success granting a day's ration.
 

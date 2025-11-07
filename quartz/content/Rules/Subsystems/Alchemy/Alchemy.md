@@ -1,26 +1,20 @@
-You have begun your education into the oft misunderstood world of alchemy. As you become more experienced your capabilities will flourish.
+Alchemy is the science of distilling the properties of natural materials into practical products. These range from simple ointments and antidotes to volatile explosives and deadly poisons.
 
-At tier one in the Alchemical tree, you know how to combine natural materials into a variety of poultices, powders, and pastes. From itching powder made from processed sands and evaporated citrus juice, to foul ointments used to treat possible infections; your skills are varied. You can see a list some here.
+Unlike magic, alchemy doesn't harness thaumic currents; instead, it relies on manipulating inherent qualities within matter itself. Consequently, alchemical processes are undetectable as magical energies.
+## Alchemical Reagents
+Natural materials possess a wide array of properties related to their function. Alchemical reagents are these materials refined – unnecessary components dissolved away to isolate specific qualities. Reagents can be derived from minerals, plants, and animals.
 
-At tier two you've learned how to make true potions. Liquid concoctions of borderline magical properties (though no wizarding academy would ever agree with you on that, for you have no degree).
-
-Alchemical elixirs leverage their ingredient's inherent qualities and harness them to produce nigh-magical effects. The potency of these concoctions are determined by the quality of their ingredients.
-
-| Refinement/Scope | Raw                                                               | Refined                                                                  |
-| ---------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Single Target    | An incapacitating Poison                                          | Revives a man from the brink of death                                    |
-| Single Melee     | Withstand Save or all targets forced to spend their turn vomiting | Targets take damage and make a Withstand Save or Blinded for 1d3 rounds. |
-| General Area     | An obscuring Smoke Bomb                                           | Mustard Gas                                                              |
-
-When referring to scope, this can mean anything from changing from a single target to splash damage effect, or going from a potion that blinds everything, to a potion that blinds demons.
-### Legendary Ingredients
-Legendary ingredients, with inherent magic can be added to any potion, increasing the potency beyond normal levels. Examples include, hearts and other notable organs from magical creatures. 
+When an alchemist brews, they combine reagents to create an alchemical product.
+### Essences
+Unlike alchemical reagents, which are broadly applicable and reasonably shelf stable when kept under proper conditions, essences are ephemeral ingredients suited to a specific purpose. These require skills beyond the typical alchemist and only made for specific purposes.
 ## Brewing
-### Brewing Known Potions
-Brewing a known potion requires access to apothecary tools, ingredients, and one shift’s labor uninterrupted. No test is required.
-### Experimenting With Ingredients
-An alchemist is never happy only brewing the same potion over and over. To refine the practice and learn how to make a new potion, work with the GM to come up with reasonable effects for the ingredients. Once a potion outline is set, you may spend a shift with the proper ingredients and attempt a bushcraft test to develop a recipe.
+In order to brew, a alchemist must have ready access to:
++ Alchemist tools
++ Clean water & a fire
++ [[Activities#The Standard Day|A shift's time]], uninterrupted
 
-Developing a recipe typically requires three successes, these stack with each attempt. You must record each recipe in a recipe book for future reference.
-### Refining Ingredients
-The secret to powerful potions is the work required to refine ingredients into their essential salts. Such a process takes time, and with one shift's effort you may refine two raw ingredients into a single use of their essential salts. No test is required, but apothecary tools are required. Refining ingredients requires the refinement talent.
+If the above are met, the alchemist can brew one alchemical product or refine an appropriate material into an alchemical reagent.
+## Alchemical Products
+Alchemical Products are the final creations of the alchemist. These are the potions and powders you think of when you think of alchemy. Each product has a recipe, which the alchemist keeps in their cookbook.
+
+See the [[Alchemical Products|list of alchemical products here]].
