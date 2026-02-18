@@ -105,4 +105,4 @@ Max: 2
 
 You are a self-taught spellcaster who has figured out how to cast magic through trial and error. When taking this talent, select any two spells from any of the magical schools.
 
-The first time you take this talent, add casting and channeling to your skill list and increase them by 1.
+The first time you take this talent, increase [[Stats#Skills|Casting]] and [[Stats#Skills|Channeling]] to 1 if they aren't already

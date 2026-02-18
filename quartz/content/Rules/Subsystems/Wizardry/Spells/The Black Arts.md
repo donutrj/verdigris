@@ -56,13 +56,13 @@ Another stain on the reputation of summoners at large. This spell is known as a 
 
 An illusionary creature is animated and given life; convincing enough to deal real damage. Those observing closely may make warding saves to disbelieve the phantasm - banishing it in doing so.
 ## Witchmint Tea
-Target: 5–6
+Target: 4–6 or 9
 
-Cast on a cup or pot of tea.
+Cast on a cup or pot of hot tea. Effects wear off once cooled.
 
-When drunk, the drinker takes SL/2 Exhaustion, setting in after an hour. If cast at 6+ SL, the drinker makes a Warding Save. If failed, they immediately fall unconscious and gain Exhausted(1).
+When drunk, the drinker takes SL/2 Exhaustion, setting in after an hour. If cast at 9 SL, They immediately fall unconscious and gain Exhausted(1).
 
-To be affected, one must drink at least half a cup.
+To be affected, one must drink at least a few sips of the brew.
 ## The Phantom Javelin
 Target: 3
 

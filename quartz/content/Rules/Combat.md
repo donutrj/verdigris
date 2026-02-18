@@ -31,7 +31,7 @@ Shields help against ranged attacks (except blackpowder weapons), giving +1 to t
 #### Called Shots
 In the event you'd like to target a specific area of an enemy, such as the head or legs, this is a called shot. Called shots are more challenging, but if you manage to hit, they can have unique effects.
 
-If you're targeting the head, or other weak spot; seeking to deal a greater amount of damage, it deals the weapon's maximum damage on hit. If you're seeking an alternative affect, such as knocking the weapon out of an enemy's hand or shooting them in the legs to make them trip, the attack does no extra damage. Work with the GM on the affect.
+If you're targeting the head, or other weak spot; seeking to deal a greater amount of damage, it deals the weapon's maximum damage on hit. If you're seeking an alternative effect, such as knocking the weapon out of an enemy's hand or shooting them in the legs to make them trip, the attack does no extra damage. Work with the GM on the affect.
 
 To make a called shot, just roll your skill, weapon and stress dice. Your opponent makes a Dodge Save as normal.
 ### Mounted Combat
